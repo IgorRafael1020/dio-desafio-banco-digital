@@ -1,2 +1,2 @@
-# dio-desafio-banco-digital
-Desafio de criar um Banco Digital
+# Desafio Banco Digital
+Desafio de criar um Banco Digital com conceitos de POO
